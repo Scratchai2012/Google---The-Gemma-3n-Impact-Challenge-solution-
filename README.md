@@ -1,4 +1,4 @@
-# 📚 GemmaLearn — Offline AI Tutor with Gemma 3n
+k# 📚 GemmaLearn — Offline AI Tutor with Gemma 3n
 
 This project demonstrates the use of **Gemma 3n (3B Instruct)** as an **offline educational assistant** for students in rural and low-connectivity environments. The app can summarize school topics, explain concepts, and generate practice questions — entirely **without internet access**.
 
@@ -100,16 +100,3 @@ Apache 2.0 (same as Gemma)
 Google DeepMind – Gemma 3n model
 
 llama-cpp-python by @abetlen
-
-yaml
-Copy code
-
----
-
-Let me know when you're ready to push this to GitHub, or if you want to zip the full codebase for upload.
-
-
-
-
-
-
